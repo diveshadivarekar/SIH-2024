@@ -33,11 +33,6 @@ This Android application provides real-time data to assess the suitability of be
 3. **AI Predictions**: When real-time data is unavailable, the app switches to AI-powered predictions to provide continuous updates on beach safety.
 4. **User Notifications**: Personalized alerts and notifications about beach conditions are displayed based on user preferences and location.
 
-## Installation
-
-Here's the updated installation section with the download link from the releases section:
-
----
 
 ## Installation
 
