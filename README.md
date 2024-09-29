@@ -1,4 +1,4 @@
-# SIH 24
+# SIH 2024
 
 - **Problem Statement ID** – 1656
 - **Problem Statement Title**- Development of a mobile application to provide recreational suitability information of beach locations across India.
